@@ -1,0 +1,1688 @@
+[
+  {
+    "title": "和風牛丼",
+    "url": "/jp/menu/detail/in/1",
+    "val": [
+      {
+        "type": "ミニ",
+        "price": 300,
+        "quickNo": "001",
+        "kcal": 500
+      },
+      {
+        "type": "並",
+        "price": 350,
+        "quickNo": "002",
+        "kcal": 715
+      },
+      {
+        "type": "大盛",
+        "price": 500,
+        "quickNo": "003",
+        "kcal": 909
+      }
+    ],
+    "img": "/jp/simages/menu/001/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "親子丼",
+    "url": "/jp/menu/detail/in/2",
+    "val": [
+      {
+        "type": "ミニ",
+        "price": 350,
+        "quickNo": "004",
+        "kcal": 406
+      },
+      {
+        "type": "並",
+        "price": 490,
+        "quickNo": "005",
+        "kcal": 662
+      },
+      {
+        "type": "大盛",
+        "price": 550,
+        "quickNo": "006",
+        "kcal": 779
+      }
+    ],
+    "img": "/jp/simages/menu/002/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "カツ丼",
+    "url": "/jp/menu/detail/in/3",
+    "val": [
+      {
+        "type": "並",
+        "price": 590,
+        "quickNo": "008",
+        "kcal": 861
+      },
+      {
+        "type": "大盛",
+        "price": 650,
+        "quickNo": "009",
+        "kcal": 978
+      }
+    ],
+    "img": "/jp/simages/menu/003/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "うな重",
+    "url": "/jp/menu/detail/in/6",
+    "val": [
+      {
+        "type": "",
+        "price": 790,
+        "quickNo": "053",
+        "kcal": 693
+      }
+    ],
+    "img": "/jp/simages/menu/006/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "特うな重",
+    "url": "/jp/menu/detail/in/7",
+    "val": [
+      {
+        "type": "",
+        "price": 1190,
+        "quickNo": "054",
+        "kcal": 928
+      }
+    ],
+    "img": "/jp/simages/menu/007/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "うなまぶし",
+    "url": "/jp/menu/detail/in/8",
+    "val": [
+      {
+        "type": "",
+        "price": 890,
+        "quickNo": "055",
+        "kcal": 730
+      }
+    ],
+    "img": "/jp/simages/menu/008/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "特うなまぶし",
+    "url": "/jp/menu/detail/in/9",
+    "val": [
+      {
+        "type": "",
+        "price": 1290,
+        "quickNo": "056",
+        "kcal": 964
+      }
+    ],
+    "img": "/jp/simages/menu/009/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "海鮮バラちらし",
+    "url": "/jp/menu/detail/in/10",
+    "val": [
+      {
+        "type": "ミニ",
+        "price": 490,
+        "quickNo": "057",
+        "kcal": 376
+      },
+      {
+        "type": "並",
+        "price": 790,
+        "quickNo": "058",
+        "kcal": 573
+      }
+    ],
+    "img": "/jp/simages/menu/010/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "海鮮まぶし",
+    "url": "/jp/menu/detail/in/11",
+    "val": [
+      {
+        "type": "ミニ",
+        "price": 590,
+        "quickNo": "059",
+        "kcal": 390
+      },
+      {
+        "type": "並",
+        "price": 890,
+        "quickNo": "060",
+        "kcal": 587
+      }
+    ],
+    "img": "/jp/simages/menu/011/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "5種野菜の冷やし担々うどん",
+    "url": "/jp/menu/detail/in/12",
+    "val": [
+      {
+        "type": "小うどん",
+        "price": 340,
+        "quickNo": "069",
+        "kcal": 314
+      },
+      {
+        "type": "並",
+        "price": 590,
+        "quickNo": "070",
+        "kcal": 628
+      }
+    ],
+    "img": "/jp/simages/menu/012/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "冷やし担々うどん",
+    "url": "/jp/menu/detail/in/13",
+    "val": [
+      {
+        "type": "小うどん",
+        "price": 290,
+        "quickNo": "063",
+        "kcal": 303
+      },
+      {
+        "type": "並",
+        "price": 490,
+        "quickNo": "064",
+        "kcal": 605
+      }
+    ],
+    "img": "/jp/simages/menu/013/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "胡麻だれざるうどん",
+    "url": "/jp/menu/detail/in/14",
+    "val": [
+      {
+        "type": "並",
+        "price": 390,
+        "quickNo": "079",
+        "kcal": 467
+      },
+      {
+        "type": "大盛",
+        "price": 490,
+        "quickNo": "080",
+        "kcal": 642
+      }
+    ],
+    "img": "/jp/simages/menu/014/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "山わさびざるそば",
+    "url": "/jp/menu/detail/in/15",
+    "val": [
+      {
+        "type": "並",
+        "price": 450,
+        "quickNo": "067",
+        "kcal": 423
+      },
+      {
+        "type": "大盛",
+        "price": 550,
+        "quickNo": "068",
+        "kcal": 608
+      }
+    ],
+    "img": "/jp/simages/menu/015/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "ざるうどん",
+    "url": "/jp/menu/detail/in/16",
+    "val": [
+      {
+        "type": "並",
+        "price": 390,
+        "quickNo": "077",
+        "kcal": 392
+      },
+      {
+        "type": "大盛",
+        "price": 490,
+        "quickNo": "078",
+        "kcal": 567
+      }
+    ],
+    "img": "/jp/simages/menu/016/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "すだちおろしうどん",
+    "url": "/jp/menu/detail/in/17",
+    "val": [
+      {
+        "type": "小うどん",
+        "price": 290,
+        "quickNo": "065",
+        "kcal": 204
+      },
+      {
+        "type": "並",
+        "price": 490,
+        "quickNo": "066",
+        "kcal": 407
+      }
+    ],
+    "img": "/jp/simages/menu/017/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "はいからうどん",
+    "url": "/jp/menu/detail/in/20",
+    "val": [
+      {
+        "type": "小うどん",
+        "price": 140,
+        "quickNo": "021",
+        "kcal": 178
+      },
+      {
+        "type": "並",
+        "price": 280,
+        "quickNo": "022",
+        "kcal": 350
+      }
+    ],
+    "img": "/jp/simages/menu/020/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "きつねうどん",
+    "url": "/jp/menu/detail/in/21",
+    "val": [
+      {
+        "type": "小うどん",
+        "price": 220,
+        "quickNo": "033",
+        "kcal": 228
+      },
+      {
+        "type": "並",
+        "price": 390,
+        "quickNo": "034",
+        "kcal": 450
+      }
+    ],
+    "img": "/jp/simages/menu/021/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "小うどん冷やし",
+    "url": "/jp/menu/detail/in/22",
+    "val": [
+      {
+        "type": "小うどん",
+        "price": 140,
+        "quickNo": "023",
+        "kcal": 242
+      }
+    ],
+    "img": "/jp/simages/menu/022/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "かきあげうどん",
+    "url": "/jp/menu/detail/in/23",
+    "val": [
+      {
+        "type": "並",
+        "price": 390,
+        "quickNo": "028",
+        "kcal": 438
+      }
+    ],
+    "img": "/jp/simages/menu/023/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "肉うどん",
+    "url": "/jp/menu/detail/in/24",
+    "val": [
+      {
+        "type": "並",
+        "price": 450,
+        "quickNo": "027",
+        "kcal": 466
+      }
+    ],
+    "img": "/jp/simages/menu/024/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "小そば冷やし",
+    "url": "/jp/menu/detail/in/26",
+    "val": [
+      {
+        "type": "小そば",
+        "price": 180,
+        "quickNo": "035",
+        "kcal": 252
+      }
+    ],
+    "img": "/jp/simages/menu/026/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "和風チキンカレー",
+    "url": "/jp/menu/detail/in/30",
+    "val": [
+      {
+        "type": "並",
+        "price": 390,
+        "quickNo": "041",
+        "kcal": 642
+      },
+      {
+        "type": "大盛",
+        "price": 450,
+        "quickNo": "042",
+        "kcal": 830
+      }
+    ],
+    "img": "/jp/simages/menu/030/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "和風カツカレー",
+    "url": "/jp/menu/detail/in/31",
+    "val": [
+      {
+        "type": "並",
+        "price": 590,
+        "quickNo": "043",
+        "kcal": 855
+      },
+      {
+        "type": "大盛",
+        "price": 650,
+        "quickNo": "044",
+        "kcal": 1018
+      }
+    ],
+    "img": "/jp/simages/menu/031/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "カレーうどん",
+    "url": "/jp/menu/detail/in/34",
+    "val": [
+      {
+        "type": "並",
+        "price": 450,
+        "quickNo": "031",
+        "kcal": 523
+      }
+    ],
+    "img": "/jp/simages/menu/034/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "カツカレーうどん",
+    "url": "/jp/menu/detail/in/36",
+    "val": [
+      {
+        "type": "並",
+        "price": 590,
+        "quickNo": "032",
+        "kcal": 700
+      }
+    ],
+    "img": "/jp/simages/menu/036/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "肉すい朝定食",
+    "url": "/jp/menu/detail/in/39",
+    "val": [
+      {
+        "type": "",
+        "price": 390,
+        "quickNo": "---",
+        "kcal": 747
+      }
+    ],
+    "img": "/jp/simages/menu/039/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "唐あげ",
+    "url": "/jp/menu/detail/in/40",
+    "val": [
+      {
+        "type": "3個",
+        "price": 100,
+        "quickNo": "201",
+        "kcal": 220
+      },
+      {
+        "type": "5個",
+        "price": 150,
+        "quickNo": "202",
+        "kcal": 366
+      },
+      {
+        "type": "10個",
+        "price": 300,
+        "quickNo": "203",
+        "kcal": 732
+      }
+    ],
+    "img": "/jp/simages/menu/040/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "サラダ",
+    "url": "/jp/menu/detail/in/41",
+    "val": [
+      {
+        "type": "ごま",
+        "price": 100,
+        "quickNo": "204",
+        "kcal": 118
+      },
+      {
+        "type": "青じそ",
+        "price": 100,
+        "quickNo": "205",
+        "kcal": 47
+      }
+    ],
+    "img": "/jp/simages/menu/041/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "ライス",
+    "url": "/jp/menu/detail/in/42",
+    "val": [
+      {
+        "type": "並",
+        "price": 140,
+        "quickNo": "206",
+        "kcal": 387
+      },
+      {
+        "type": "大盛",
+        "price": 170,
+        "quickNo": "207",
+        "kcal": 504
+      }
+    ],
+    "img": "/jp/simages/menu/042/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "こだわり卵のぷりん",
+    "url": "/jp/menu/detail/in/43",
+    "val": [
+      {
+        "type": "黒蜜きなこ",
+        "price": 120,
+        "quickNo": "209",
+        "kcal": 119
+      },
+      {
+        "type": "宇治抹茶",
+        "price": 120,
+        "quickNo": "210",
+        "kcal": 158
+      },
+      {
+        "type": "3個パック",
+        "price": 300,
+        "quickNo": "211",
+        "kcal": 0
+      }
+    ],
+    "img": "/jp/simages/menu/043/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "みそ汁",
+    "url": "/jp/menu/detail/in/44",
+    "val": [
+      {
+        "type": "",
+        "price": 100,
+        "quickNo": "213",
+        "kcal": 56
+      }
+    ],
+    "img": "/jp/simages/menu/044/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "とん汁",
+    "url": "/jp/menu/detail/in/45",
+    "val": [
+      {
+        "type": "",
+        "price": 160,
+        "quickNo": "214",
+        "kcal": 124
+      }
+    ],
+    "img": "/jp/simages/menu/045/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "つけもの",
+    "url": "/jp/menu/detail/in/46",
+    "val": [
+      {
+        "type": "",
+        "price": 50,
+        "quickNo": "218",
+        "kcal": 12
+      }
+    ],
+    "img": "/jp/simages/menu/046/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "こだわり卵",
+    "url": "/jp/menu/detail/in/47",
+    "val": [
+      {
+        "type": "",
+        "price": 70,
+        "quickNo": "215",
+        "kcal": 87
+      }
+    ],
+    "img": "/jp/simages/menu/047/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "牛皿",
+    "url": "/jp/menu/detail/in/48",
+    "val": [
+      {
+        "type": "",
+        "price": 250,
+        "quickNo": "216",
+        "kcal": 328
+      }
+    ],
+    "img": "/jp/simages/menu/048/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "缶ビール",
+    "url": "/jp/menu/detail/in/49",
+    "val": [
+      {
+        "type": "",
+        "price": 280,
+        "quickNo": "---",
+        "kcal": 147
+      }
+    ],
+    "img": "/jp/simages/menu/049/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "納豆（単品）",
+    "url": "/jp/menu/detail/in/50",
+    "val": [
+      {
+        "type": "",
+        "price": 80,
+        "quickNo": "222",
+        "kcal": 78
+      }
+    ],
+    "img": "/jp/simages/menu/050/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "鮭（単品）",
+    "url": "/jp/menu/detail/in/51",
+    "val": [
+      {
+        "type": "",
+        "price": 200,
+        "quickNo": "223",
+        "kcal": 99
+      }
+    ],
+    "img": "/jp/simages/menu/051/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "かきあげ（単品）",
+    "url": "/jp/menu/detail/in/54",
+    "val": [
+      {
+        "type": "",
+        "price": 150,
+        "quickNo": "217",
+        "kcal": 157
+      }
+    ],
+    "img": "/jp/simages/menu/054/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "つけものセット",
+    "url": "/jp/menu/detail/in/56",
+    "val": [
+      {
+        "type": "",
+        "price": 130,
+        "quickNo": "458",
+        "kcal": 68
+      }
+    ],
+    "img": "/jp/simages/menu/056/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "サラダセット",
+    "url": "/jp/menu/detail/in/57",
+    "val": [
+      {
+        "type": "青じそセット",
+        "price": 150,
+        "quickNo": "451",
+        "kcal": 103
+      },
+      {
+        "type": "ゴマセット",
+        "price": 150,
+        "quickNo": "452",
+        "kcal": 174
+      }
+    ],
+    "img": "/jp/simages/menu/057/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "たまごセット",
+    "url": "/jp/menu/detail/in/58",
+    "val": [
+      {
+        "type": "",
+        "price": 150,
+        "quickNo": "454",
+        "kcal": 143
+      }
+    ],
+    "img": "/jp/simages/menu/058/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "唐あげセット",
+    "url": "/jp/menu/detail/in/59",
+    "val": [
+      {
+        "type": "",
+        "price": 150,
+        "quickNo": "455",
+        "kcal": 276
+      }
+    ],
+    "img": "/jp/simages/menu/059/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "朝まぜごはん牛小鉢定食",
+    "url": "/jp/menu/detail/in/60",
+    "val": [
+      {
+        "type": "みそ汁",
+        "price": 350,
+        "quickNo": "---",
+        "kcal": 655
+      },
+      {
+        "type": "とん汁",
+        "price": 400,
+        "quickNo": "---",
+        "kcal": 721
+      }
+    ],
+    "img": "/jp/simages/menu/060/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "朝まぜごはん納豆定食",
+    "url": "/jp/menu/detail/in/61",
+    "val": [
+      {
+        "type": "みそ汁",
+        "price": 330,
+        "quickNo": "---",
+        "kcal": 621
+      },
+      {
+        "type": "とん汁",
+        "price": 380,
+        "quickNo": "---",
+        "kcal": 688
+      }
+    ],
+    "img": "/jp/simages/menu/061/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "こだわり卵朝定食",
+    "url": "/jp/menu/detail/in/62",
+    "val": [
+      {
+        "type": "みそ汁",
+        "price": 230,
+        "quickNo": "---",
+        "kcal": 537
+      },
+      {
+        "type": "とん汁",
+        "price": 280,
+        "quickNo": "---",
+        "kcal": 603
+      }
+    ],
+    "img": "/jp/simages/menu/062/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "牛鮭朝定食",
+    "url": "/jp/menu/detail/in/63",
+    "val": [
+      {
+        "type": "みそ汁",
+        "price": 430,
+        "quickNo": "---",
+        "kcal": 656
+      },
+      {
+        "type": "とん汁",
+        "price": 480,
+        "quickNo": "---",
+        "kcal": 723
+      }
+    ],
+    "img": "/jp/simages/menu/063/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "目玉焼き朝定食",
+    "url": "/jp/menu/detail/in/64",
+    "val": [
+      {
+        "type": "みそ汁",
+        "price": 250,
+        "quickNo": "---",
+        "kcal": 533
+      },
+      {
+        "type": "とん汁",
+        "price": 300,
+        "quickNo": "---",
+        "kcal": 599
+      }
+    ],
+    "img": "/jp/simages/menu/064/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "ダブル目玉焼き朝定食",
+    "url": "/jp/menu/detail/in/65",
+    "val": [
+      {
+        "type": "みそ汁",
+        "price": 330,
+        "quickNo": "---",
+        "kcal": 616
+      },
+      {
+        "type": "とん汁",
+        "price": 380,
+        "quickNo": "---",
+        "kcal": 682
+      }
+    ],
+    "img": "/jp/simages/menu/065/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "目玉焼き牛小鉢朝定食",
+    "url": "/jp/menu/detail/in/66",
+    "val": [
+      {
+        "type": "みそ汁",
+        "price": 350,
+        "quickNo": "---",
+        "kcal": 644
+      },
+      {
+        "type": "とん汁",
+        "price": 400,
+        "quickNo": "---",
+        "kcal": 710
+      }
+    ],
+    "img": "/jp/simages/menu/066/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "目玉焼き納豆朝定食",
+    "url": "/jp/menu/detail/in/67",
+    "val": [
+      {
+        "type": "みそ汁",
+        "price": 330,
+        "quickNo": "---",
+        "kcal": 610
+      },
+      {
+        "type": "とん汁",
+        "price": 380,
+        "quickNo": "---",
+        "kcal": 677
+      }
+    ],
+    "img": "/jp/simages/menu/067/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "カツ丼（並）+小うどんはいから",
+    "url": "/jp/menu/detail/in/68",
+    "val": [
+      {
+        "type": "",
+        "price": 730,
+        "quickNo": "410",
+        "kcal": 963
+      }
+    ],
+    "img": "/jp/simages/menu/068/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "和風牛丼（並）+小うどんはいから",
+    "url": "/jp/menu/detail/in/69",
+    "val": [
+      {
+        "type": "",
+        "price": 490,
+        "quickNo": "401",
+        "kcal": 893
+      }
+    ],
+    "img": "/jp/simages/menu/069/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "親子丼(並)+小うどんはいから",
+    "url": "/jp/menu/detail/in/73",
+    "val": [
+      {
+        "type": "",
+        "price": 630,
+        "quickNo": "404",
+        "kcal": 840
+      }
+    ],
+    "img": "/jp/simages/menu/073/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "和風牛丼(並)+小うどん5種野菜の冷やし担々",
+    "url": "/jp/menu/detail/in/76",
+    "val": [
+      {
+        "type": "",
+        "price": 690,
+        "quickNo": "426",
+        "kcal": 1029
+      }
+    ],
+    "img": "/jp/simages/menu/076/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "和風牛丼(ミニ)+5種野菜の冷やし担々うどん(並)",
+    "url": "/jp/menu/detail/in/77",
+    "val": [
+      {
+        "type": "",
+        "price": 890,
+        "quickNo": "425",
+        "kcal": 1128
+      }
+    ],
+    "img": "/jp/simages/menu/077/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "お子様和風牛丼セット",
+    "url": "/jp/menu/detail/in/80",
+    "val": [
+      {
+        "type": "",
+        "price": 380,
+        "quickNo": "255",
+        "kcal": 729
+      }
+    ],
+    "img": "/jp/simages/menu/080/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "お子様カレーセット",
+    "url": "/jp/menu/detail/in/81",
+    "val": [
+      {
+        "type": "",
+        "price": 380,
+        "quickNo": "256",
+        "kcal": 595
+      }
+    ],
+    "img": "/jp/simages/menu/081/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "お子様きつねセット",
+    "url": "/jp/menu/detail/in/82",
+    "val": [
+      {
+        "type": "",
+        "price": 380,
+        "quickNo": "257",
+        "kcal": 503
+      }
+    ],
+    "img": "/jp/simages/menu/082/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "唐あげ南蛮定食",
+    "url": "/jp/menu/detail/in/83",
+    "val": [
+      {
+        "type": "ライス並",
+        "price": 730,
+        "quickNo": "---",
+        "kcal": 1448
+      },
+      {
+        "type": "ライス大盛",
+        "price": 730,
+        "quickNo": "---",
+        "kcal": 1565
+      }
+    ],
+    "img": "/jp/simages/menu/083/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "かつとじ定食",
+    "url": "/jp/menu/detail/in/84",
+    "val": [
+      {
+        "type": "ライス並",
+        "price": 730,
+        "quickNo": "---",
+        "kcal": 1046
+      },
+      {
+        "type": "ライス大盛",
+        "price": 730,
+        "quickNo": "---",
+        "kcal": 1163
+      }
+    ],
+    "img": "/jp/simages/menu/084/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "うな玉定食",
+    "url": "/jp/menu/detail/in/85",
+    "val": [
+      {
+        "type": "ライス並",
+        "price": 890,
+        "quickNo": "---",
+        "kcal": 873
+      },
+      {
+        "type": "ライス大盛",
+        "price": 890,
+        "quickNo": "---",
+        "kcal": 990
+      }
+    ],
+    "img": "/jp/simages/menu/085/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "牛皿定食",
+    "url": "/jp/menu/detail/in/86",
+    "val": [
+      {
+        "type": "ライス並",
+        "price": 690,
+        "quickNo": "---",
+        "kcal": 998
+      },
+      {
+        "type": "ライス大盛",
+        "price": 690,
+        "quickNo": "---",
+        "kcal": 1115
+      }
+    ],
+    "img": "/jp/simages/menu/086/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "和風牛丼（ミニ）+すだちおろしうどん",
+    "url": "/jp/menu/detail/in/87",
+    "val": [
+      {
+        "type": "",
+        "price": 790,
+        "quickNo": "430",
+        "kcal": 907
+      }
+    ],
+    "img": "/jp/simages/menu/087/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "和風牛丼並+小うどんすだち",
+    "url": "/jp/menu/detail/in/88",
+    "val": [
+      {
+        "type": "",
+        "price": 640,
+        "quickNo": "431",
+        "kcal": 919
+      }
+    ],
+    "img": "/jp/simages/menu/088/8.jpg",
+    "takeout": false
+  },
+  {
+    "title": "和風牛丼(お持ち帰り）",
+    "url": "/jp/menu/detail/in/101",
+    "val": [
+      {
+        "type": "ミニ",
+        "price": 300,
+        "quickNo": "101",
+        "kcal": 500
+      },
+      {
+        "type": "並",
+        "price": 350,
+        "quickNo": "102",
+        "kcal": 715
+      },
+      {
+        "type": "大盛",
+        "price": 500,
+        "quickNo": "103",
+        "kcal": 909
+      }
+    ],
+    "img": "/jp/simages/menu/101/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "親子丼（お持ち帰り）",
+    "url": "/jp/menu/detail/in/102",
+    "val": [
+      {
+        "type": "ミニ",
+        "price": 350,
+        "quickNo": "104",
+        "kcal": 406
+      },
+      {
+        "type": "並",
+        "price": 490,
+        "quickNo": "105",
+        "kcal": 662
+      },
+      {
+        "type": "大盛",
+        "price": 550,
+        "quickNo": "106",
+        "kcal": 779
+      }
+    ],
+    "img": "/jp/simages/menu/102/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "カツ丼（お持ち帰り）",
+    "url": "/jp/menu/detail/in/103",
+    "val": [
+      {
+        "type": "並",
+        "price": 590,
+        "quickNo": "108",
+        "kcal": 861
+      },
+      {
+        "type": "大盛",
+        "price": 650,
+        "quickNo": "109",
+        "kcal": 978
+      }
+    ],
+    "img": "/jp/simages/menu/103/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "うな重（お持ち帰り）",
+    "url": "/jp/menu/detail/in/106",
+    "val": [
+      {
+        "type": "",
+        "price": 790,
+        "quickNo": "153",
+        "kcal": 693
+      }
+    ],
+    "img": "/jp/simages/menu/106/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "特うな重（お持ち帰り）",
+    "url": "/jp/menu/detail/in/107",
+    "val": [
+      {
+        "type": "",
+        "price": 1190,
+        "quickNo": "154",
+        "kcal": 928
+      }
+    ],
+    "img": "/jp/simages/menu/107/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "5種野菜の冷やし担々うどん(お持ち帰り)",
+    "url": "/jp/menu/detail/in/112",
+    "val": [
+      {
+        "type": "小うどん",
+        "price": 340,
+        "quickNo": "069",
+        "kcal": 314
+      },
+      {
+        "type": "並",
+        "price": 590,
+        "quickNo": "070",
+        "kcal": 628
+      }
+    ],
+    "img": "/jp/simages/menu/112/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "冷やし担々うどん(お持ち帰り)",
+    "url": "/jp/menu/detail/in/113",
+    "val": [
+      {
+        "type": "小うどん",
+        "price": 290,
+        "quickNo": "063",
+        "kcal": 303
+      },
+      {
+        "type": "並",
+        "price": 490,
+        "quickNo": "064",
+        "kcal": 605
+      }
+    ],
+    "img": "/jp/simages/menu/113/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "胡麻だれざるうどん（お持ち帰り）",
+    "url": "/jp/menu/detail/in/114",
+    "val": [
+      {
+        "type": "並",
+        "price": 390,
+        "quickNo": "179",
+        "kcal": 467
+      },
+      {
+        "type": "大盛",
+        "price": 490,
+        "quickNo": "180",
+        "kcal": 642
+      }
+    ],
+    "img": "/jp/simages/menu/114/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "山わさびざるそば（お持ち帰り）",
+    "url": "/jp/menu/detail/in/115",
+    "val": [
+      {
+        "type": "並",
+        "price": 450,
+        "quickNo": "167",
+        "kcal": 423
+      },
+      {
+        "type": "大盛",
+        "price": 550,
+        "quickNo": "168",
+        "kcal": 608
+      }
+    ],
+    "img": "/jp/simages/menu/115/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "ざるうどん（お持ち帰り）",
+    "url": "/jp/menu/detail/in/116",
+    "val": [
+      {
+        "type": "並",
+        "price": 390,
+        "quickNo": "177",
+        "kcal": 392
+      },
+      {
+        "type": "大盛",
+        "price": 490,
+        "quickNo": "178",
+        "kcal": 567
+      }
+    ],
+    "img": "/jp/simages/menu/116/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "すだちおろしうどん（お持ち帰り）",
+    "url": "/jp/menu/detail/in/117",
+    "val": [
+      {
+        "type": "小うどん",
+        "price": 290,
+        "quickNo": "165",
+        "kcal": 204
+      },
+      {
+        "type": "並",
+        "price": 490,
+        "quickNo": "166",
+        "kcal": 407
+      }
+    ],
+    "img": "/jp/simages/menu/117/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "はいからうどん（お持ち帰り）",
+    "url": "/jp/menu/detail/in/120",
+    "val": [
+      {
+        "type": "小うどん",
+        "price": 140,
+        "quickNo": "121",
+        "kcal": 178
+      },
+      {
+        "type": "並",
+        "price": 280,
+        "quickNo": "122",
+        "kcal": 350
+      }
+    ],
+    "img": "/jp/simages/menu/120/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "きつねうどん（お持ち帰り）",
+    "url": "/jp/menu/detail/in/121",
+    "val": [
+      {
+        "type": "小うどん",
+        "price": 220,
+        "quickNo": "133",
+        "kcal": 228
+      },
+      {
+        "type": "並",
+        "price": 390,
+        "quickNo": "134",
+        "kcal": 450
+      }
+    ],
+    "img": "/jp/simages/menu/121/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "小うどん冷やし（お持ち帰り）",
+    "url": "/jp/menu/detail/in/122",
+    "val": [
+      {
+        "type": "小うどん",
+        "price": 140,
+        "quickNo": "123",
+        "kcal": 242
+      }
+    ],
+    "img": "/jp/simages/menu/122/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "かきあげうどん（お持ち帰り）",
+    "url": "/jp/menu/detail/in/123",
+    "val": [
+      {
+        "type": "並",
+        "price": 390,
+        "quickNo": "128",
+        "kcal": 438
+      }
+    ],
+    "img": "/jp/simages/menu/123/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "肉うどん（お持ち帰り）",
+    "url": "/jp/menu/detail/in/124",
+    "val": [
+      {
+        "type": "並",
+        "price": 450,
+        "quickNo": "127",
+        "kcal": 466
+      }
+    ],
+    "img": "/jp/simages/menu/124/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "小そば冷やし（お持ち帰り）",
+    "url": "/jp/menu/detail/in/126",
+    "val": [
+      {
+        "type": "小そば",
+        "price": 180,
+        "quickNo": "035",
+        "kcal": 252
+      }
+    ],
+    "img": "/jp/simages/menu/126/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "和風チキンカレー（お持ち帰り）",
+    "url": "/jp/menu/detail/in/130",
+    "val": [
+      {
+        "type": "並",
+        "price": 390,
+        "quickNo": "141",
+        "kcal": 642
+      },
+      {
+        "type": "大盛",
+        "price": 450,
+        "quickNo": "142",
+        "kcal": 830
+      }
+    ],
+    "img": "/jp/simages/menu/130/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "和風カツカレー（お持ち帰り）",
+    "url": "/jp/menu/detail/in/131",
+    "val": [
+      {
+        "type": "並",
+        "price": 590,
+        "quickNo": "143",
+        "kcal": 855
+      },
+      {
+        "type": "大盛",
+        "price": 650,
+        "quickNo": "144",
+        "kcal": 1018
+      }
+    ],
+    "img": "/jp/simages/menu/131/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "カレーうどん（お持ち帰り）",
+    "url": "/jp/menu/detail/in/134",
+    "val": [
+      {
+        "type": "並",
+        "price": 450,
+        "quickNo": "131",
+        "kcal": 523
+      }
+    ],
+    "img": "/jp/simages/menu/134/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "カツカレーうどん（お持ち帰り）",
+    "url": "/jp/menu/detail/in/136",
+    "val": [
+      {
+        "type": "並",
+        "price": 590,
+        "quickNo": "132",
+        "kcal": 700
+      }
+    ],
+    "img": "/jp/simages/menu/136/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "唐あげ（お持ち帰り）",
+    "url": "/jp/menu/detail/in/140",
+    "val": [
+      {
+        "type": "3個",
+        "price": 100,
+        "quickNo": "301",
+        "kcal": 220
+      },
+      {
+        "type": "5個",
+        "price": 150,
+        "quickNo": "302",
+        "kcal": 366
+      },
+      {
+        "type": "10個",
+        "price": 300,
+        "quickNo": "303",
+        "kcal": 732
+      }
+    ],
+    "img": "/jp/simages/menu/140/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "サラダ（お持ち帰り）",
+    "url": "/jp/menu/detail/in/141",
+    "val": [
+      {
+        "type": "ごま",
+        "price": 100,
+        "quickNo": "304",
+        "kcal": 118
+      },
+      {
+        "type": "青じそ",
+        "price": 100,
+        "quickNo": "305",
+        "kcal": 47
+      }
+    ],
+    "img": "/jp/simages/menu/141/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "ライス（お持ち帰り）",
+    "url": "/jp/menu/detail/in/142",
+    "val": [
+      {
+        "type": "並",
+        "price": 140,
+        "quickNo": "306",
+        "kcal": 387
+      },
+      {
+        "type": "大盛",
+        "price": 170,
+        "quickNo": "307",
+        "kcal": 504
+      }
+    ],
+    "img": "/jp/simages/menu/142/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "こだわり卵のぷりん（お持ち帰り）",
+    "url": "/jp/menu/detail/in/143",
+    "val": [
+      {
+        "type": "黒蜜きなこ",
+        "price": 120,
+        "quickNo": "309",
+        "kcal": 119
+      },
+      {
+        "type": "宇治抹茶",
+        "price": 120,
+        "quickNo": "310",
+        "kcal": 158
+      },
+      {
+        "type": "3個パック",
+        "price": 300,
+        "quickNo": "311",
+        "kcal": 0
+      }
+    ],
+    "img": "/jp/simages/menu/143/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "みそ汁（お持ち帰り）",
+    "url": "/jp/menu/detail/in/144",
+    "val": [
+      {
+        "type": "",
+        "price": 100,
+        "quickNo": "313",
+        "kcal": 56
+      }
+    ],
+    "img": "/jp/simages/menu/144/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "とん汁（お持ち帰り）",
+    "url": "/jp/menu/detail/in/145",
+    "val": [
+      {
+        "type": "",
+        "price": 160,
+        "quickNo": "314",
+        "kcal": 124
+      }
+    ],
+    "img": "/jp/simages/menu/145/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "つけもの（お持ち帰り）",
+    "url": "/jp/menu/detail/in/146",
+    "val": [
+      {
+        "type": "",
+        "price": 50,
+        "quickNo": "318",
+        "kcal": 12
+      }
+    ],
+    "img": "/jp/simages/menu/146/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "こだわり卵（お持ち帰り）",
+    "url": "/jp/menu/detail/in/147",
+    "val": [
+      {
+        "type": "",
+        "price": 70,
+        "quickNo": "315",
+        "kcal": 87
+      }
+    ],
+    "img": "/jp/simages/menu/147/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "牛皿（お持ち帰り）",
+    "url": "/jp/menu/detail/in/148",
+    "val": [
+      {
+        "type": "",
+        "price": 250,
+        "quickNo": "316",
+        "kcal": 328
+      }
+    ],
+    "img": "/jp/simages/menu/148/8.jpg",
+    "takeout": true
+  },
+  {
+    "title": "かきあげ単品（お持ち帰り）",
+    "url": "/jp/menu/detail/in/154",
+    "val": [
+      {
+        "type": "",
+        "price": 150,
+        "quickNo": "317",
+        "kcal": 157
+      }
+    ],
+    "img": "/jp/simages/menu/154/8.jpg",
+    "takeout": true
+  }
+]
