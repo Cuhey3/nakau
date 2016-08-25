@@ -1,7 +1,9 @@
 [
   {
-    "title": "和風牛丼",
     "url": "/jp/menu/detail/in/1",
+    "title": "和風牛丼",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "ミニ",
@@ -22,12 +24,13 @@
         "kcal": 909
       }
     ],
-    "img": "/jp/simages/menu/001/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/001/8.jpg"
   },
   {
-    "title": "親子丼",
     "url": "/jp/menu/detail/in/2",
+    "title": "親子丼",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "ミニ",
@@ -48,12 +51,13 @@
         "kcal": 779
       }
     ],
-    "img": "/jp/simages/menu/002/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/002/8.jpg"
   },
   {
-    "title": "カツ丼",
     "url": "/jp/menu/detail/in/3",
+    "title": "カツ丼",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "並",
@@ -68,12 +72,13 @@
         "kcal": 978
       }
     ],
-    "img": "/jp/simages/menu/003/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/003/8.jpg"
   },
   {
-    "title": "うな重",
     "url": "/jp/menu/detail/in/6",
+    "title": "うな重",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -82,12 +87,13 @@
         "kcal": 693
       }
     ],
-    "img": "/jp/simages/menu/006/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/006/8.jpg"
   },
   {
-    "title": "特うな重",
     "url": "/jp/menu/detail/in/7",
+    "title": "特うな重",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -96,12 +102,13 @@
         "kcal": 928
       }
     ],
-    "img": "/jp/simages/menu/007/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/007/8.jpg"
   },
   {
-    "title": "うなまぶし",
     "url": "/jp/menu/detail/in/8",
+    "title": "うなまぶし",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -110,12 +117,13 @@
         "kcal": 730
       }
     ],
-    "img": "/jp/simages/menu/008/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/008/8.jpg"
   },
   {
-    "title": "特うなまぶし",
     "url": "/jp/menu/detail/in/9",
+    "title": "特うなまぶし",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -124,12 +132,13 @@
         "kcal": 964
       }
     ],
-    "img": "/jp/simages/menu/009/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/009/8.jpg"
   },
   {
-    "title": "海鮮バラちらし",
     "url": "/jp/menu/detail/in/10",
+    "title": "海鮮バラちらし",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "ミニ",
@@ -144,12 +153,13 @@
         "kcal": 573
       }
     ],
-    "img": "/jp/simages/menu/010/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/010/8.jpg"
   },
   {
-    "title": "海鮮まぶし",
     "url": "/jp/menu/detail/in/11",
+    "title": "海鮮まぶし",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "ミニ",
@@ -164,12 +174,13 @@
         "kcal": 587
       }
     ],
-    "img": "/jp/simages/menu/011/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/011/8.jpg"
   },
   {
-    "title": "5種野菜の冷やし担々うどん",
     "url": "/jp/menu/detail/in/12",
+    "title": "5種野菜の冷やし担々うどん",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "小うどん",
@@ -184,12 +195,13 @@
         "kcal": 628
       }
     ],
-    "img": "/jp/simages/menu/012/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/012/8.jpg"
   },
   {
-    "title": "冷やし担々うどん",
     "url": "/jp/menu/detail/in/13",
+    "title": "冷やし担々うどん",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "小うどん",
@@ -204,12 +216,13 @@
         "kcal": 605
       }
     ],
-    "img": "/jp/simages/menu/013/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/013/8.jpg"
   },
   {
-    "title": "胡麻だれざるうどん",
     "url": "/jp/menu/detail/in/14",
+    "title": "胡麻だれざるうどん",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "並",
@@ -224,12 +237,13 @@
         "kcal": 642
       }
     ],
-    "img": "/jp/simages/menu/014/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/014/8.jpg"
   },
   {
-    "title": "山わさびざるそば",
     "url": "/jp/menu/detail/in/15",
+    "title": "山わさびざるそば",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "並",
@@ -244,12 +258,13 @@
         "kcal": 608
       }
     ],
-    "img": "/jp/simages/menu/015/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/015/8.jpg"
   },
   {
-    "title": "ざるうどん",
     "url": "/jp/menu/detail/in/16",
+    "title": "ざるうどん",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "並",
@@ -264,12 +279,13 @@
         "kcal": 567
       }
     ],
-    "img": "/jp/simages/menu/016/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/016/8.jpg"
   },
   {
-    "title": "すだちおろしうどん",
     "url": "/jp/menu/detail/in/17",
+    "title": "すだちおろしうどん",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "小うどん",
@@ -284,12 +300,13 @@
         "kcal": 407
       }
     ],
-    "img": "/jp/simages/menu/017/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/017/8.jpg"
   },
   {
-    "title": "はいからうどん",
     "url": "/jp/menu/detail/in/20",
+    "title": "はいからうどん",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "小うどん",
@@ -304,12 +321,13 @@
         "kcal": 350
       }
     ],
-    "img": "/jp/simages/menu/020/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/020/8.jpg"
   },
   {
-    "title": "きつねうどん",
     "url": "/jp/menu/detail/in/21",
+    "title": "きつねうどん",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "小うどん",
@@ -324,12 +342,13 @@
         "kcal": 450
       }
     ],
-    "img": "/jp/simages/menu/021/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/021/8.jpg"
   },
   {
-    "title": "小うどん冷やし",
     "url": "/jp/menu/detail/in/22",
+    "title": "小うどん冷やし",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "小うどん",
@@ -338,12 +357,13 @@
         "kcal": 242
       }
     ],
-    "img": "/jp/simages/menu/022/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/022/8.jpg"
   },
   {
-    "title": "かきあげうどん",
     "url": "/jp/menu/detail/in/23",
+    "title": "かきあげうどん",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "並",
@@ -352,12 +372,13 @@
         "kcal": 438
       }
     ],
-    "img": "/jp/simages/menu/023/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/023/8.jpg"
   },
   {
-    "title": "肉うどん",
     "url": "/jp/menu/detail/in/24",
+    "title": "肉うどん",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "並",
@@ -366,12 +387,13 @@
         "kcal": 466
       }
     ],
-    "img": "/jp/simages/menu/024/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/024/8.jpg"
   },
   {
-    "title": "小そば冷やし",
     "url": "/jp/menu/detail/in/26",
+    "title": "小そば冷やし",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "小そば",
@@ -380,12 +402,13 @@
         "kcal": 252
       }
     ],
-    "img": "/jp/simages/menu/026/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/026/8.jpg"
   },
   {
-    "title": "和風チキンカレー",
     "url": "/jp/menu/detail/in/30",
+    "title": "和風チキンカレー",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "並",
@@ -400,12 +423,13 @@
         "kcal": 830
       }
     ],
-    "img": "/jp/simages/menu/030/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/030/8.jpg"
   },
   {
-    "title": "和風カツカレー",
     "url": "/jp/menu/detail/in/31",
+    "title": "和風カツカレー",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "並",
@@ -420,12 +444,13 @@
         "kcal": 1018
       }
     ],
-    "img": "/jp/simages/menu/031/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/031/8.jpg"
   },
   {
-    "title": "カレーうどん",
     "url": "/jp/menu/detail/in/34",
+    "title": "カレーうどん",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "並",
@@ -434,12 +459,13 @@
         "kcal": 523
       }
     ],
-    "img": "/jp/simages/menu/034/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/034/8.jpg"
   },
   {
-    "title": "カツカレーうどん",
     "url": "/jp/menu/detail/in/36",
+    "title": "カツカレーうどん",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "並",
@@ -448,12 +474,13 @@
         "kcal": 700
       }
     ],
-    "img": "/jp/simages/menu/036/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/036/8.jpg"
   },
   {
-    "title": "肉すい朝定食",
     "url": "/jp/menu/detail/in/39",
+    "title": "肉すい朝定食",
+    "menu": "morning",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -462,12 +489,13 @@
         "kcal": 747
       }
     ],
-    "img": "/jp/simages/menu/039/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/039/8.jpg"
   },
   {
-    "title": "唐あげ",
     "url": "/jp/menu/detail/in/40",
+    "title": "唐あげ",
+    "menu": "side",
+    "takeout": false,
     "val": [
       {
         "type": "3個",
@@ -488,12 +516,13 @@
         "kcal": 732
       }
     ],
-    "img": "/jp/simages/menu/040/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/040/8.jpg"
   },
   {
-    "title": "サラダ",
     "url": "/jp/menu/detail/in/41",
+    "title": "サラダ",
+    "menu": "side",
+    "takeout": false,
     "val": [
       {
         "type": "ごま",
@@ -508,12 +537,13 @@
         "kcal": 47
       }
     ],
-    "img": "/jp/simages/menu/041/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/041/8.jpg"
   },
   {
-    "title": "ライス",
     "url": "/jp/menu/detail/in/42",
+    "title": "ライス",
+    "menu": "side",
+    "takeout": false,
     "val": [
       {
         "type": "並",
@@ -528,12 +558,13 @@
         "kcal": 504
       }
     ],
-    "img": "/jp/simages/menu/042/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/042/8.jpg"
   },
   {
-    "title": "こだわり卵のぷりん",
     "url": "/jp/menu/detail/in/43",
+    "title": "こだわり卵のぷりん",
+    "menu": "side",
+    "takeout": false,
     "val": [
       {
         "type": "黒蜜きなこ",
@@ -554,12 +585,13 @@
         "kcal": 0
       }
     ],
-    "img": "/jp/simages/menu/043/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/043/8.jpg"
   },
   {
-    "title": "みそ汁",
     "url": "/jp/menu/detail/in/44",
+    "title": "みそ汁",
+    "menu": "side",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -568,12 +600,13 @@
         "kcal": 56
       }
     ],
-    "img": "/jp/simages/menu/044/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/044/8.jpg"
   },
   {
-    "title": "とん汁",
     "url": "/jp/menu/detail/in/45",
+    "title": "とん汁",
+    "menu": "side",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -582,12 +615,13 @@
         "kcal": 124
       }
     ],
-    "img": "/jp/simages/menu/045/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/045/8.jpg"
   },
   {
-    "title": "つけもの",
     "url": "/jp/menu/detail/in/46",
+    "title": "つけもの",
+    "menu": "side",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -596,12 +630,13 @@
         "kcal": 12
       }
     ],
-    "img": "/jp/simages/menu/046/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/046/8.jpg"
   },
   {
-    "title": "こだわり卵",
     "url": "/jp/menu/detail/in/47",
+    "title": "こだわり卵",
+    "menu": "side",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -610,12 +645,13 @@
         "kcal": 87
       }
     ],
-    "img": "/jp/simages/menu/047/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/047/8.jpg"
   },
   {
-    "title": "牛皿",
     "url": "/jp/menu/detail/in/48",
+    "title": "牛皿",
+    "menu": "side",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -624,12 +660,13 @@
         "kcal": 328
       }
     ],
-    "img": "/jp/simages/menu/048/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/048/8.jpg"
   },
   {
-    "title": "缶ビール",
     "url": "/jp/menu/detail/in/49",
+    "title": "缶ビール",
+    "menu": "side",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -638,12 +675,13 @@
         "kcal": 147
       }
     ],
-    "img": "/jp/simages/menu/049/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/049/8.jpg"
   },
   {
-    "title": "納豆（単品）",
     "url": "/jp/menu/detail/in/50",
+    "title": "納豆（単品）",
+    "menu": "side",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -652,12 +690,13 @@
         "kcal": 78
       }
     ],
-    "img": "/jp/simages/menu/050/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/050/8.jpg"
   },
   {
-    "title": "鮭（単品）",
     "url": "/jp/menu/detail/in/51",
+    "title": "鮭（単品）",
+    "menu": "side",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -666,12 +705,13 @@
         "kcal": 99
       }
     ],
-    "img": "/jp/simages/menu/051/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/051/8.jpg"
   },
   {
-    "title": "かきあげ（単品）",
     "url": "/jp/menu/detail/in/54",
+    "title": "かきあげ（単品）",
+    "menu": "side",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -680,12 +720,13 @@
         "kcal": 157
       }
     ],
-    "img": "/jp/simages/menu/054/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/054/8.jpg"
   },
   {
-    "title": "つけものセット",
     "url": "/jp/menu/detail/in/56",
+    "title": "つけものセット",
+    "menu": "set",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -694,12 +735,13 @@
         "kcal": 68
       }
     ],
-    "img": "/jp/simages/menu/056/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/056/8.jpg"
   },
   {
-    "title": "サラダセット",
     "url": "/jp/menu/detail/in/57",
+    "title": "サラダセット",
+    "menu": "set",
+    "takeout": false,
     "val": [
       {
         "type": "青じそセット",
@@ -714,12 +756,13 @@
         "kcal": 174
       }
     ],
-    "img": "/jp/simages/menu/057/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/057/8.jpg"
   },
   {
-    "title": "たまごセット",
     "url": "/jp/menu/detail/in/58",
+    "title": "たまごセット",
+    "menu": "set",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -728,12 +771,13 @@
         "kcal": 143
       }
     ],
-    "img": "/jp/simages/menu/058/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/058/8.jpg"
   },
   {
-    "title": "唐あげセット",
     "url": "/jp/menu/detail/in/59",
+    "title": "唐あげセット",
+    "menu": "set",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -742,12 +786,13 @@
         "kcal": 276
       }
     ],
-    "img": "/jp/simages/menu/059/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/059/8.jpg"
   },
   {
-    "title": "朝まぜごはん牛小鉢定食",
     "url": "/jp/menu/detail/in/60",
+    "title": "朝まぜごはん牛小鉢定食",
+    "menu": "morning",
+    "takeout": false,
     "val": [
       {
         "type": "みそ汁",
@@ -762,12 +807,13 @@
         "kcal": 721
       }
     ],
-    "img": "/jp/simages/menu/060/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/060/8.jpg"
   },
   {
-    "title": "朝まぜごはん納豆定食",
     "url": "/jp/menu/detail/in/61",
+    "title": "朝まぜごはん納豆定食",
+    "menu": "morning",
+    "takeout": false,
     "val": [
       {
         "type": "みそ汁",
@@ -782,12 +828,13 @@
         "kcal": 688
       }
     ],
-    "img": "/jp/simages/menu/061/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/061/8.jpg"
   },
   {
-    "title": "こだわり卵朝定食",
     "url": "/jp/menu/detail/in/62",
+    "title": "こだわり卵朝定食",
+    "menu": "morning",
+    "takeout": false,
     "val": [
       {
         "type": "みそ汁",
@@ -802,12 +849,13 @@
         "kcal": 603
       }
     ],
-    "img": "/jp/simages/menu/062/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/062/8.jpg"
   },
   {
-    "title": "牛鮭朝定食",
     "url": "/jp/menu/detail/in/63",
+    "title": "牛鮭朝定食",
+    "menu": "morning",
+    "takeout": false,
     "val": [
       {
         "type": "みそ汁",
@@ -822,12 +870,13 @@
         "kcal": 723
       }
     ],
-    "img": "/jp/simages/menu/063/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/063/8.jpg"
   },
   {
-    "title": "目玉焼き朝定食",
     "url": "/jp/menu/detail/in/64",
+    "title": "目玉焼き朝定食",
+    "menu": "morning",
+    "takeout": false,
     "val": [
       {
         "type": "みそ汁",
@@ -842,12 +891,13 @@
         "kcal": 599
       }
     ],
-    "img": "/jp/simages/menu/064/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/064/8.jpg"
   },
   {
-    "title": "ダブル目玉焼き朝定食",
     "url": "/jp/menu/detail/in/65",
+    "title": "ダブル目玉焼き朝定食",
+    "menu": "morning",
+    "takeout": false,
     "val": [
       {
         "type": "みそ汁",
@@ -862,12 +912,13 @@
         "kcal": 682
       }
     ],
-    "img": "/jp/simages/menu/065/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/065/8.jpg"
   },
   {
-    "title": "目玉焼き牛小鉢朝定食",
     "url": "/jp/menu/detail/in/66",
+    "title": "目玉焼き牛小鉢朝定食",
+    "menu": "morning",
+    "takeout": false,
     "val": [
       {
         "type": "みそ汁",
@@ -882,12 +933,13 @@
         "kcal": 710
       }
     ],
-    "img": "/jp/simages/menu/066/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/066/8.jpg"
   },
   {
-    "title": "目玉焼き納豆朝定食",
     "url": "/jp/menu/detail/in/67",
+    "title": "目玉焼き納豆朝定食",
+    "menu": "morning",
+    "takeout": false,
     "val": [
       {
         "type": "みそ汁",
@@ -902,12 +954,13 @@
         "kcal": 677
       }
     ],
-    "img": "/jp/simages/menu/067/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/067/8.jpg"
   },
   {
-    "title": "カツ丼（並）+小うどんはいから",
     "url": "/jp/menu/detail/in/68",
+    "title": "カツ丼（並）+小うどんはいから",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -916,12 +969,13 @@
         "kcal": 963
       }
     ],
-    "img": "/jp/simages/menu/068/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/068/8.jpg"
   },
   {
-    "title": "和風牛丼（並）+小うどんはいから",
     "url": "/jp/menu/detail/in/69",
+    "title": "和風牛丼（並）+小うどんはいから",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -930,12 +984,13 @@
         "kcal": 893
       }
     ],
-    "img": "/jp/simages/menu/069/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/069/8.jpg"
   },
   {
-    "title": "親子丼(並)+小うどんはいから",
     "url": "/jp/menu/detail/in/73",
+    "title": "親子丼(並)+小うどんはいから",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -944,12 +999,13 @@
         "kcal": 840
       }
     ],
-    "img": "/jp/simages/menu/073/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/073/8.jpg"
   },
   {
-    "title": "和風牛丼(並)+小うどん5種野菜の冷やし担々",
     "url": "/jp/menu/detail/in/76",
+    "title": "和風牛丼(並)+小うどん5種野菜の冷やし担々",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -958,12 +1014,13 @@
         "kcal": 1029
       }
     ],
-    "img": "/jp/simages/menu/076/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/076/8.jpg"
   },
   {
-    "title": "和風牛丼(ミニ)+5種野菜の冷やし担々うどん(並)",
     "url": "/jp/menu/detail/in/77",
+    "title": "和風牛丼(ミニ)+5種野菜の冷やし担々うどん(並)",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -972,12 +1029,13 @@
         "kcal": 1128
       }
     ],
-    "img": "/jp/simages/menu/077/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/077/8.jpg"
   },
   {
-    "title": "お子様和風牛丼セット",
     "url": "/jp/menu/detail/in/80",
+    "title": "お子様和風牛丼セット",
+    "menu": "child",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -986,12 +1044,13 @@
         "kcal": 729
       }
     ],
-    "img": "/jp/simages/menu/080/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/080/8.jpg"
   },
   {
-    "title": "お子様カレーセット",
     "url": "/jp/menu/detail/in/81",
+    "title": "お子様カレーセット",
+    "menu": "child",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -1000,12 +1059,13 @@
         "kcal": 595
       }
     ],
-    "img": "/jp/simages/menu/081/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/081/8.jpg"
   },
   {
-    "title": "お子様きつねセット",
     "url": "/jp/menu/detail/in/82",
+    "title": "お子様きつねセット",
+    "menu": "child",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -1014,12 +1074,13 @@
         "kcal": 503
       }
     ],
-    "img": "/jp/simages/menu/082/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/082/8.jpg"
   },
   {
-    "title": "唐あげ南蛮定食",
     "url": "/jp/menu/detail/in/83",
+    "title": "唐あげ南蛮定食",
+    "menu": "teishoku",
+    "takeout": false,
     "val": [
       {
         "type": "ライス並",
@@ -1034,12 +1095,13 @@
         "kcal": 1565
       }
     ],
-    "img": "/jp/simages/menu/083/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/083/8.jpg"
   },
   {
-    "title": "かつとじ定食",
     "url": "/jp/menu/detail/in/84",
+    "title": "かつとじ定食",
+    "menu": "teishoku",
+    "takeout": false,
     "val": [
       {
         "type": "ライス並",
@@ -1054,12 +1116,13 @@
         "kcal": 1163
       }
     ],
-    "img": "/jp/simages/menu/084/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/084/8.jpg"
   },
   {
-    "title": "うな玉定食",
     "url": "/jp/menu/detail/in/85",
+    "title": "うな玉定食",
+    "menu": "teishoku",
+    "takeout": false,
     "val": [
       {
         "type": "ライス並",
@@ -1074,12 +1137,13 @@
         "kcal": 990
       }
     ],
-    "img": "/jp/simages/menu/085/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/085/8.jpg"
   },
   {
-    "title": "牛皿定食",
     "url": "/jp/menu/detail/in/86",
+    "title": "牛皿定食",
+    "menu": "teishoku",
+    "takeout": false,
     "val": [
       {
         "type": "ライス並",
@@ -1094,12 +1158,13 @@
         "kcal": 1115
       }
     ],
-    "img": "/jp/simages/menu/086/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/086/8.jpg"
   },
   {
-    "title": "和風牛丼（ミニ）+すだちおろしうどん",
     "url": "/jp/menu/detail/in/87",
+    "title": "和風牛丼（ミニ）+すだちおろしうどん",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -1108,12 +1173,13 @@
         "kcal": 907
       }
     ],
-    "img": "/jp/simages/menu/087/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/087/8.jpg"
   },
   {
-    "title": "和風牛丼並+小うどんすだち",
     "url": "/jp/menu/detail/in/88",
+    "title": "和風牛丼並+小うどんすだち",
+    "menu": "main",
+    "takeout": false,
     "val": [
       {
         "type": "",
@@ -1122,12 +1188,13 @@
         "kcal": 919
       }
     ],
-    "img": "/jp/simages/menu/088/8.jpg",
-    "takeout": false
+    "img": "/jp/simages/menu/088/8.jpg"
   },
   {
-    "title": "和風牛丼(お持ち帰り）",
     "url": "/jp/menu/detail/in/101",
+    "title": "和風牛丼(お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "ミニ",
@@ -1148,12 +1215,13 @@
         "kcal": 909
       }
     ],
-    "img": "/jp/simages/menu/101/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/101/8.jpg"
   },
   {
-    "title": "親子丼（お持ち帰り）",
     "url": "/jp/menu/detail/in/102",
+    "title": "親子丼（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "ミニ",
@@ -1174,12 +1242,13 @@
         "kcal": 779
       }
     ],
-    "img": "/jp/simages/menu/102/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/102/8.jpg"
   },
   {
-    "title": "カツ丼（お持ち帰り）",
     "url": "/jp/menu/detail/in/103",
+    "title": "カツ丼（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "並",
@@ -1194,12 +1263,13 @@
         "kcal": 978
       }
     ],
-    "img": "/jp/simages/menu/103/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/103/8.jpg"
   },
   {
-    "title": "うな重（お持ち帰り）",
     "url": "/jp/menu/detail/in/106",
+    "title": "うな重（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "",
@@ -1208,12 +1278,13 @@
         "kcal": 693
       }
     ],
-    "img": "/jp/simages/menu/106/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/106/8.jpg"
   },
   {
-    "title": "特うな重（お持ち帰り）",
     "url": "/jp/menu/detail/in/107",
+    "title": "特うな重（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "",
@@ -1222,12 +1293,13 @@
         "kcal": 928
       }
     ],
-    "img": "/jp/simages/menu/107/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/107/8.jpg"
   },
   {
-    "title": "5種野菜の冷やし担々うどん(お持ち帰り)",
     "url": "/jp/menu/detail/in/112",
+    "title": "5種野菜の冷やし担々うどん(お持ち帰り)",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "小うどん",
@@ -1242,12 +1314,13 @@
         "kcal": 628
       }
     ],
-    "img": "/jp/simages/menu/112/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/112/8.jpg"
   },
   {
-    "title": "冷やし担々うどん(お持ち帰り)",
     "url": "/jp/menu/detail/in/113",
+    "title": "冷やし担々うどん(お持ち帰り)",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "小うどん",
@@ -1262,12 +1335,13 @@
         "kcal": 605
       }
     ],
-    "img": "/jp/simages/menu/113/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/113/8.jpg"
   },
   {
-    "title": "胡麻だれざるうどん（お持ち帰り）",
     "url": "/jp/menu/detail/in/114",
+    "title": "胡麻だれざるうどん（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "並",
@@ -1282,12 +1356,13 @@
         "kcal": 642
       }
     ],
-    "img": "/jp/simages/menu/114/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/114/8.jpg"
   },
   {
-    "title": "山わさびざるそば（お持ち帰り）",
     "url": "/jp/menu/detail/in/115",
+    "title": "山わさびざるそば（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "並",
@@ -1302,12 +1377,13 @@
         "kcal": 608
       }
     ],
-    "img": "/jp/simages/menu/115/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/115/8.jpg"
   },
   {
-    "title": "ざるうどん（お持ち帰り）",
     "url": "/jp/menu/detail/in/116",
+    "title": "ざるうどん（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "並",
@@ -1322,12 +1398,13 @@
         "kcal": 567
       }
     ],
-    "img": "/jp/simages/menu/116/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/116/8.jpg"
   },
   {
-    "title": "すだちおろしうどん（お持ち帰り）",
     "url": "/jp/menu/detail/in/117",
+    "title": "すだちおろしうどん（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "小うどん",
@@ -1342,12 +1419,13 @@
         "kcal": 407
       }
     ],
-    "img": "/jp/simages/menu/117/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/117/8.jpg"
   },
   {
-    "title": "はいからうどん（お持ち帰り）",
     "url": "/jp/menu/detail/in/120",
+    "title": "はいからうどん（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "小うどん",
@@ -1362,12 +1440,13 @@
         "kcal": 350
       }
     ],
-    "img": "/jp/simages/menu/120/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/120/8.jpg"
   },
   {
-    "title": "きつねうどん（お持ち帰り）",
     "url": "/jp/menu/detail/in/121",
+    "title": "きつねうどん（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "小うどん",
@@ -1382,12 +1461,13 @@
         "kcal": 450
       }
     ],
-    "img": "/jp/simages/menu/121/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/121/8.jpg"
   },
   {
-    "title": "小うどん冷やし（お持ち帰り）",
     "url": "/jp/menu/detail/in/122",
+    "title": "小うどん冷やし（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "小うどん",
@@ -1396,12 +1476,13 @@
         "kcal": 242
       }
     ],
-    "img": "/jp/simages/menu/122/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/122/8.jpg"
   },
   {
-    "title": "かきあげうどん（お持ち帰り）",
     "url": "/jp/menu/detail/in/123",
+    "title": "かきあげうどん（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "並",
@@ -1410,12 +1491,13 @@
         "kcal": 438
       }
     ],
-    "img": "/jp/simages/menu/123/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/123/8.jpg"
   },
   {
-    "title": "肉うどん（お持ち帰り）",
     "url": "/jp/menu/detail/in/124",
+    "title": "肉うどん（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "並",
@@ -1424,12 +1506,13 @@
         "kcal": 466
       }
     ],
-    "img": "/jp/simages/menu/124/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/124/8.jpg"
   },
   {
-    "title": "小そば冷やし（お持ち帰り）",
     "url": "/jp/menu/detail/in/126",
+    "title": "小そば冷やし（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "小そば",
@@ -1438,12 +1521,13 @@
         "kcal": 252
       }
     ],
-    "img": "/jp/simages/menu/126/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/126/8.jpg"
   },
   {
-    "title": "和風チキンカレー（お持ち帰り）",
     "url": "/jp/menu/detail/in/130",
+    "title": "和風チキンカレー（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "並",
@@ -1458,12 +1542,13 @@
         "kcal": 830
       }
     ],
-    "img": "/jp/simages/menu/130/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/130/8.jpg"
   },
   {
-    "title": "和風カツカレー（お持ち帰り）",
     "url": "/jp/menu/detail/in/131",
+    "title": "和風カツカレー（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "並",
@@ -1478,12 +1563,13 @@
         "kcal": 1018
       }
     ],
-    "img": "/jp/simages/menu/131/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/131/8.jpg"
   },
   {
-    "title": "カレーうどん（お持ち帰り）",
     "url": "/jp/menu/detail/in/134",
+    "title": "カレーうどん（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "並",
@@ -1492,12 +1578,13 @@
         "kcal": 523
       }
     ],
-    "img": "/jp/simages/menu/134/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/134/8.jpg"
   },
   {
-    "title": "カツカレーうどん（お持ち帰り）",
     "url": "/jp/menu/detail/in/136",
+    "title": "カツカレーうどん（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "並",
@@ -1506,12 +1593,13 @@
         "kcal": 700
       }
     ],
-    "img": "/jp/simages/menu/136/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/136/8.jpg"
   },
   {
-    "title": "唐あげ（お持ち帰り）",
     "url": "/jp/menu/detail/in/140",
+    "title": "唐あげ（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "3個",
@@ -1532,12 +1620,13 @@
         "kcal": 732
       }
     ],
-    "img": "/jp/simages/menu/140/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/140/8.jpg"
   },
   {
-    "title": "サラダ（お持ち帰り）",
     "url": "/jp/menu/detail/in/141",
+    "title": "サラダ（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "ごま",
@@ -1552,12 +1641,13 @@
         "kcal": 47
       }
     ],
-    "img": "/jp/simages/menu/141/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/141/8.jpg"
   },
   {
-    "title": "ライス（お持ち帰り）",
     "url": "/jp/menu/detail/in/142",
+    "title": "ライス（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "並",
@@ -1572,12 +1662,13 @@
         "kcal": 504
       }
     ],
-    "img": "/jp/simages/menu/142/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/142/8.jpg"
   },
   {
-    "title": "こだわり卵のぷりん（お持ち帰り）",
     "url": "/jp/menu/detail/in/143",
+    "title": "こだわり卵のぷりん（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "黒蜜きなこ",
@@ -1598,12 +1689,13 @@
         "kcal": 0
       }
     ],
-    "img": "/jp/simages/menu/143/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/143/8.jpg"
   },
   {
-    "title": "みそ汁（お持ち帰り）",
     "url": "/jp/menu/detail/in/144",
+    "title": "みそ汁（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "",
@@ -1612,12 +1704,13 @@
         "kcal": 56
       }
     ],
-    "img": "/jp/simages/menu/144/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/144/8.jpg"
   },
   {
-    "title": "とん汁（お持ち帰り）",
     "url": "/jp/menu/detail/in/145",
+    "title": "とん汁（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "",
@@ -1626,12 +1719,13 @@
         "kcal": 124
       }
     ],
-    "img": "/jp/simages/menu/145/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/145/8.jpg"
   },
   {
-    "title": "つけもの（お持ち帰り）",
     "url": "/jp/menu/detail/in/146",
+    "title": "つけもの（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "",
@@ -1640,12 +1734,13 @@
         "kcal": 12
       }
     ],
-    "img": "/jp/simages/menu/146/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/146/8.jpg"
   },
   {
-    "title": "こだわり卵（お持ち帰り）",
     "url": "/jp/menu/detail/in/147",
+    "title": "こだわり卵（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "",
@@ -1654,12 +1749,13 @@
         "kcal": 87
       }
     ],
-    "img": "/jp/simages/menu/147/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/147/8.jpg"
   },
   {
-    "title": "牛皿（お持ち帰り）",
     "url": "/jp/menu/detail/in/148",
+    "title": "牛皿（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "",
@@ -1668,12 +1764,13 @@
         "kcal": 328
       }
     ],
-    "img": "/jp/simages/menu/148/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/148/8.jpg"
   },
   {
-    "title": "かきあげ単品（お持ち帰り）",
     "url": "/jp/menu/detail/in/154",
+    "title": "かきあげ単品（お持ち帰り）",
+    "menu": "takeout",
+    "takeout": true,
     "val": [
       {
         "type": "",
@@ -1682,7 +1779,6 @@
         "kcal": 157
       }
     ],
-    "img": "/jp/simages/menu/154/8.jpg",
-    "takeout": true
+    "img": "/jp/simages/menu/154/8.jpg"
   }
 ]

@@ -1,6 +1,5 @@
 package com.heroku.nakau;
 
-import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -26,7 +25,17 @@ public class ScrapingNakau {
             } else {
                 System.out.println(url + " connected.");
                 Map map = new LinkedHashMap<>();
-                map.put("title", document.select("div.columnLeft h1.title").text());
+                String title = document.select("div.columnLeft h1.title").text();
+                map.put("url", absUrl);
+                map.put("title", title);
+                if (i > 100) {
+                    map.put("menu", "takeout");
+                    map.put("takeout", true);
+                } else {
+                    map.put("menu", getCategory(title));
+                    map.put("takeout", false);
+                }
+                result.add(map);
                 List<Map> val = new ArrayList<>();
                 Iterator<Element> priceIterator = document.select("table.column3 tr.price td").iterator();
                 Iterator<Element> quickNoIterator = document.select("table.column3 tr.quickNo td").iterator();
@@ -48,18 +57,44 @@ public class ScrapingNakau {
                     col.put("kcal", Integer.parseInt(calIterator.next().text()));
                     val.add(col);
                 }
-                map.put("url", absUrl);
                 map.put("val", val);
                 map.put("img", document.select("div.columnRight figure img").first().attr("src"));
-                if(i > 100){
-                    map.put("takeout", true);
-                }else{
-                    map.put("takeout", false);
-                }
-                result.add(map);
             }
         }
         String jsonString = new GsonBuilder().setPrettyPrinting().create().toJson(result);
         System.out.println(jsonString);
+    }
+
+    public static String getCategory(String title) {
+        if (title.contains("朝")) {
+            return "morning";
+        } else if (title.contains("お子様")) {
+            return "child";
+        } else if (title.contains("定食")) {
+            return "teishoku";
+        } else {
+            switch (title) {
+                case "唐あげ":
+                case "サラダ":
+                case "ライス":
+                case "こだわり卵のぷりん":
+                case "みそ汁":
+                case "とん汁":
+                case "つけもの":
+                case "こだわり卵":
+                case "牛皿":
+                case "缶ビール":
+                case "納豆（単品）":
+                case "鮭（単品）":
+                case "かきあげ（単品）":
+                    return "side";
+                case "つけものセット":
+                case "サラダセット":
+                case "たまごセット":
+                case "唐あげセット":
+                    return "set";
+            }
+            return "main";
+        }
     }
 }
